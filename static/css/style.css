@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    box-sizing: border-box;
+}
+.container_row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg{
+    background-image: url("/templates/cars.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card{
+    position: absolute;
+}
+
+.co
+
+.mt-50{
+    margin-top: 50px;
+}
+
+.card{
+    width: 100%;
+    height: 100%;
+}
+
+.col-12, .col-10{
+    text-align: center;
+}
+
